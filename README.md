@@ -14,8 +14,8 @@
 
 
 ## Algorithms ![AlgorithmsPoints]
-- Warmup
-- Implementation
+- [Warmup](https://github.com/rifalous/HackerRank#warmup)
+- [Implementation](https://github.com/rifalous/HackerRank#implementation)
 - Strings
 - Sorting
 - Search
