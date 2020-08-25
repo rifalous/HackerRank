@@ -61,16 +61,17 @@
 ### Warmup
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)| | _O(1)_ | _O(1)_| Easy | 1 | ||
-|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| | _O(n)_ | _O(1)_ | Easy | 10 | ||
-|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|  | _O(1)_ | _O(1)_ | Easy | 10 | ||
-|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)|  | _O(n)_ | _O(1)_ | Easy | 10 | ||
-|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|  | _O(n)_ | _O(1)_ | Easy | 10 | ||
-|  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)|  | _O(n)_ | _O(1)_ | Easy | 10 | ||
-|  |[Staircase](https://www.hackerrank.com/challenges/staircase)|  | _O(n)_ | _O(n)_ | Easy | 10 | ||
-|  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|  | _O(1)_ | _O(1)_ | Easy | 10 | ||
-|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)|  | _O(1)_ | _O(1)_ | Easy | 15 | ||
-|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|  | _O(n)_ | _O(1)_ | Easy | 10 | ||
+|  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)| <ul><li>[PHP](./Algorithms/Warmup/Solve%20Me%20First/Solution.php)</li><ul> | _O(1)_ | _O(1)_| Easy | 1 | ||
+|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| <ul><li>[PHP](./Algorithms/Warmup/Simple%20Array%20Sum/Solution.php)</li><ul> | _O(n)_ | _O(1)_ | Easy | 10 | ||
+|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| <ul><li>[PHP](./Algorithms/Warmup/Compare%20the%20Triplets/Solution.php)</li> <ul> | _O(1)_ | _O(1)_ | Easy | 10 | ||
+|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| <ul><li>[PHP](./Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.php)</li><ul> | _O(n)_ | _O(1)_ | Easy | 10 | ||
+|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| <ul><li>[PHP](./Algorithms/Warmup/Diagonal%20Difference/Solution.php)</li><ul> | _O(n)_ | _O(1)_ | Easy | 10 | ||
+|  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| <ul><li>[PHP](./Algorithms/Warmup/Plus%20Minus/Solution.php)</li><ul> | _O(n)_ | _O(1)_ | Easy | 10 | ||
+|  |[Staircase](https://www.hackerrank.com/challenges/staircase)| <ul><li>[PHP](./Algorithms/Warmup/Staircase/Solution.php)</li><ul> | _O(n)_ | _O(n)_ | Easy | 10 | ||
+|  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| <ul><li>[PHP](./Algorithms/Warmup/Mini-Max%20Sum/Solution.php)</li><ul> | _O(1)_ | _O(1)_ | Easy | 10 | ||
+|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| <ul><li>[PHP](./Algorithms/Warmup/Time%20Conversion/Solution.php)</li><ul> | _O(1)_ | _O(1)_ | Easy | 15 | ||
+|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| <ul><li>[PHP](./Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.php)</li><ul> | _O(n)_ | _O(1)_ | Easy | 10 | ||
+
 
 ### Implementation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
