@@ -6,7 +6,7 @@
     Solutions to problems on HackerRank.
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-0-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-PHP/C++/Python/Java-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-25/08/2020-brightgreen.svg">
 </p>
